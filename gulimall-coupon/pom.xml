@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hty.gulimall</groupId>
-	<artifactId>gulimall-product</artifactId>
+	<artifactId>gulimall-coupon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>

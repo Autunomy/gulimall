@@ -38,3 +38,10 @@ log/
 *.pid
 *.orig
 temp/
+
+**/mvnw
+**/mvnw.cmd
+
+**/.mvn
+
+**/target
